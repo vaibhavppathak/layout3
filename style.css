@@ -16,3 +16,21 @@ footer {
     width:100%;
 }
 }
+
+@media (min-width: 898px) and (max-width: 992px){
+    body{
+
+        padding-right:60px;
+    }
+      .well{
+
+        width:130%;
+    }
+ }
+
+      @media (min-width: 810px) and (max-width: 890px){
+        .well{
+
+        width:102%;
+    }
+  }
