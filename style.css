@@ -1,0 +1,36 @@
+body {
+    padding-top: 70px;
+}
+
+#search{
+  margin-bottom: 6px;
+}
+
+footer {
+    margin-bottom: 20px;
+    padding-left:0px; 
+}
+
+@media (max-width: 317px) {
+   .col-xs-6 {
+    width:100%;
+}
+}
+
+@media (min-width: 898px) and (max-width: 992px){
+    body{
+
+        padding-right:60px;
+    }
+      .well{
+
+        width:130%;
+    }
+ }
+
+      @media (min-width: 810px) and (max-width: 890px){
+        .well{
+
+        width:102%;
+    }
+  }
